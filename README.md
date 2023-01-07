@@ -1,4 +1,5 @@
 # Expense-Tracker
+![Screenshot (232)](https://user-images.githubusercontent.com/74832066/211149796-d7942d71-3ee5-4347-8967-d5541f34d65e.png)
 
 This Project is a Simple ReactJS Project which demonstrates the following
 
@@ -10,9 +11,9 @@ Communicating between parent and child component
 
 The project Template can be used to build bigger projects
 
-Live Application URL
+<!-- Live Application URL -->
 #
-This URL has the application deployed in
+<!-- This URL has the application deployed in -->
 
 Prerequisites
 
@@ -20,10 +21,10 @@ Install create-react-app
 Install create-react-app npm package globally. This will help to easily run the project and also build the source files easily. Use the following command to install create-react-app
 
 npm install -g create-react-app
-Live Application URL
-The Application is deployed in https://aquamarine-kelpie-97e9d7.netlify.app/
+<!-- Live Application URL -->
+<!-- The Application is deployed in https://aquamarine-kelpie-97e9d7.netlify.app/ -->
 
-Click on the link to see the application
+<!-- Click on the link to see the application -->
 
 Cloning and Running the Application in local
 Clone the project into local
